@@ -1,0 +1,12 @@
+Integrantes del equipo:
+Tomás Escobar
+
+Repositorio GitHub:
+https://github.com/tu-usuario/proyecto-jquery.git 
+
+Resumen de pasos:
+1. Descargamos jQuery y el plugin Fancybox.
+2. Creamos una carpeta estructurada con carpetas para JS, CSS e imágenes.
+3. En index.html, enlazamos las librerías y creamos los elementos solicitados.
+4. Usamos Fancybox para mostrar imágenes, videos y mapas en ventanas emergentes.
+5. Subimos todo al repositorio de GitHub.
